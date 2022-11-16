@@ -8,7 +8,8 @@ This is an early implementation, some sections are still missing.
 
 ## Past Seminars
  
-CATHY days 2023
+- [CATHY days 2023](https://cathy-org.github.io/CATHY_days_2023/)
+- CATHY days 2016 ([slides](https://www.slideshare.net/CoupledHydrologicalModeling/))
  
 ## Code Source and Documentation
   - [Core developement](https://bitbucket.org/cathy1_0/cathy/src/master/)
