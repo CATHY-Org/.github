@@ -17,7 +17,7 @@ This is an early implementation, some sections are still missing.
 
 
 ## Datasets
-- [pyCATHY](https://github.com/BenjMy/pycathy_wrapper/tree/main/pyCATHY)](https://github.com/CATHY-Org/cathy-data-template)
+- [pyCATHY](https://github.com/CATHY-Org/cathy-data-template)
 
 
   
