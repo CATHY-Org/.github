@@ -18,6 +18,7 @@ This is an early implementation, some sections are still missing.
 
 ## Datasets
 - [cathy-data-template](https://github.com/CATHY-Org/cathy-data-template)
+- [weill-template](https://github.com/CATHY-Org/weill_dataset)
 
 
   
