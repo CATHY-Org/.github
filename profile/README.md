@@ -12,9 +12,10 @@ This is an early implementation, some sections are still missing.
 - CATHY days 2015 ([slides](https://www.slideshare.net/CoupledHydrologicalModeling/))
  
 ## Code Source and Documentation
-  - [Core developement](https://bitbucket.org/cathy1_0/cathy/src/master/)
+  - [Core development](https://bitbucket.org/cathy1_0/cathy/src/master/)
+  - [Github Source](https://bitbucket.org/cathy1_0/cathy/src/master/](https://github.com/CATHY-Org/CATHY_src_org)
   - [pyCATHY](https://github.com/BenjMy/pycathy_wrapper/tree/main/pyCATHY)
-
+  - [Source documentation](https://github.com/CATHY-Org/CATHY_src_org/blob/main/CATHY%20User%20Guide_mod.docx) and [Source documentation](https://github.com/CATHY-Org/CATHY_src_org/blob/main/CATHY%20User%20Guide_mod.docx](https://github.com/CATHY-Org/CATHY_src_org/blob/main/Primer_CATHY.pdf) 
 
 ## Datasets
 - [cathy-data-template](https://github.com/CATHY-Org/cathy-data-template)
