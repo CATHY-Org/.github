@@ -17,6 +17,10 @@ This is an early implementation, some sections are still missing.
   - [pyCATHY](https://github.com/BenjMy/pycathy_wrapper/tree/main/pyCATHY)
   - [Source documentation](https://github.com/CATHY-Org/CATHY_src_org/blob/main/CATHY%20User%20Guide_mod.docx) and [Documentation](https://github.com/CATHY-Org/CATHY_src_org/blob/main/Primer_CATHY.pdf) 
 
+## Versions
+  - [With variable Soil Cover Fraction using LAI](https://github.com/CATHY-Org/CATHY_SCF_LAI)
+  - With irrigation file input
+
 ## Datasets
 - [cathy-data-template](https://github.com/CATHY-Org/cathy-data-template)
 - [weill-template](https://github.com/CATHY-Org/weill_dataset)
